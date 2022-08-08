@@ -1,0 +1,12 @@
+{
+  "name": "gamonDemo",
+  "assetdir": "frontend/build",
+  "outputfilename": "gamonDemo",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "wailsjsdir": "./frontend",
+  "author": {
+    "name": "yogesh973",
+    "email": "yogeshsd973@gmail.com"
+  }
+}
